@@ -28,7 +28,7 @@ To contribute, you know the story,
 
 - Download dependencies
     ```bash
-        pip install -r requrements.txt
+        pip install -r requirements.txt
 
     ```
 - Create a `.env` file with the following variables:
